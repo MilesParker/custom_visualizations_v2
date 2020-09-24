@@ -167,7 +167,7 @@ update: function(data, element, config, queryResponse, details){
 
 	An array of rows representing the current data in the query. May be `null`.
 
-	Each row is an object with the keys representing field names, and the value representing a "cell" object. [Here's details on dealing with the cell object](#rendering-data).
+	Each row is an object with the keys representing field names, and the value representing a "cell" object. [Here are details on dealing with the cell object](#rendering-data).
 
 - `element` _DOMElement_
 
